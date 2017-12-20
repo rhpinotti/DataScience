@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Tue Dec 19 13:14:35 BRST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0160-6f57-3682-0000099ef9e8 
-on database directory /home/pinotti/Desenv/DataScience/MongoDB/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7019da09 
+Wed Dec 20 07:46:12 BRST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0160-7350-efd9-0000096b2230 
+on database directory /home/pinotti/Desenv/DataScience/MongoDB/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@64bfcc3d 
 Loaded from file:/home/pinotti/spark/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_151-b12
